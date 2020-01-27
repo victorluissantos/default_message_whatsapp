@@ -1,0 +1,39 @@
+.whats {
+	width: 100%;
+	min-height: 550px;
+	background-color: #e5ddd5;
+	background-image: url('https://web.whatsapp.com/img/bg-chat-tile_9e8a2898faedb7db9bf5638405cf81ae.png');
+	background-size: 550px 999px;
+}
+.footer_msg {
+	padding: 0;
+	background-color: #f0f0f0;
+	border-left: 1px solid rgba(0,0,0,.08);
+	padding: 5px 10px;
+	position: absolute;
+	width: 94%;
+	margin-top: 101%;
+}
+.footer_msg input {
+	background-color:#fff;
+	border: 1px solid #fff;
+	border-radius: 21px;
+	padding: 9px 12px 11px;
+	margin: 5px 10px;
+}
+.footer_msg button {
+	outline: none;
+	border: 0;
+	padding: 0;
+	background: none;
+	cursor: pointer;
+}
+.footer_msg .txt_msg {
+	width: 80%;
+}
+.footer_msg .audio {
+	
+}
+textarea {
+	resize: none;
+}
