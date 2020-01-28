@@ -37,3 +37,6 @@
 textarea {
 	resize: none;
 }
+span.label {
+	cursor: pointer;
+}
